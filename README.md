@@ -1,4 +1,4 @@
-### Hi there 👋 I am a 4-th year student majoring in computer engineering.
+### Hi there 👋 I am a 4th year student majoring in computer engineering.
 <!--
 **ShaielVistuch/ShaielVistuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
