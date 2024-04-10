@@ -1,4 +1,7 @@
 ### Hi there 👋 I am a 4th year student majoring in computer engineering.
+My favorite courses:
+Design Patterns in Java - grade 100
+Java Software Engineering - grade 87
 <!--
 **ShaielVistuch/ShaielVistuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
