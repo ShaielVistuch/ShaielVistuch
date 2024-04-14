@@ -5,7 +5,7 @@ Java Software Engineering - grade 87 <br> <br>
 
 Specializing in: <br>
 (1) Data processing & analysis <br>
-(2) Networks & Computations <br>
+(2) Networks & computation <br>
 
 <!--
 **ShaielVistuch/ShaielVistuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
