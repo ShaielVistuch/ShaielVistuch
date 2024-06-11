@@ -1,7 +1,8 @@
 ### Hi there 👋 I am a 4th year student majoring in computer engineering.
 My favorite courses:  <br>
 Design Patterns in Java - grade 100 <br> 
-Java Software Engineering - grade 87 <br> <br>
+Java Software Engineering - grade 87 <br> 
+Deep Learning - grade 90 <br> <br>
 
 Specializing in: <br>
 (1) Data processing & analysis <br>
