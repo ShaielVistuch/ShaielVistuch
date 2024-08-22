@@ -2,7 +2,8 @@
 My favorite courses:  <br>
 Design Patterns in Java - grade 100 <br> 
 Java Software Engineering - grade 87 <br> 
-Deep Learning - grade 90 <br> <br>
+Deep Learning - grade 90 <br> 
+Digital Image Processing - grade 94 <br>
 
 Specializing in: <br>
 (1) Data processing & analysis <br>
