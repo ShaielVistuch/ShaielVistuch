@@ -1,4 +1,4 @@
-### Hi there 👋 I am a 4th year student majoring in computer engineering.
+### Hi there 👋 I am a computer engineer and a full-stack developer.
 My favorite courses:  <br>
 Design Patterns in Java - grade 100 <br> 
 Java Software Engineering - grade 87 <br> 
