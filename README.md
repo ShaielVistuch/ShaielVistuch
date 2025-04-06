@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a computer engineer and a full-stack developer at a stealth startup.
 My favorite courses:  <br>
-Digital Computer Structure - grade 95 <br>
+Digital Computers Structure - grade 95 <br>
 Design Patterns in Java - grade 100 <br> 
 Java Software Engineering - grade 87 <br> 
 Deep Learning - grade 90 <br> 
