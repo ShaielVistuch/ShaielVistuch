@@ -1,4 +1,4 @@
-### Hi there 👋 I am a computer engineer and a full-stack developer at a stealth startup.
+### Hi there 👋 I am a computer engineer.
 My favorite courses:  <br>
 Structure of Digital Computers - grade 95 <br>
 Design Patterns in Java - grade 100 <br> 
