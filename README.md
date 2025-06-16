@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a computer engineer.
 My favorite courses:  <br>
-Structure of Digital Computers - grade 95 <br>
+Architecture of Digital Computers - grade 95 <br>
 Design Patterns in Java - grade 100 <br> 
 Java Software Engineering - grade 87 <br> 
 Deep Learning - grade 90 <br> 
