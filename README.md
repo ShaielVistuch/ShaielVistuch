@@ -1,4 +1,8 @@
-### Hi there 👋 I am a computer engineer.
+### Hi there 👋 I am a computer engineer, former software developer at Riskey (now part of Vanta).
+Checkout my publication in TASE: <br>
+Robust Deep Reinforcement Learning Using Formal Verification | springerprofessional.de https://share.google/6r4XkDIz0o6QhlJn1
+<br>
+
 My favorite courses:  <br>
 Architecture of Digital Computers - grade 95 <br>
 Design Patterns in Java - grade 100 <br> 
