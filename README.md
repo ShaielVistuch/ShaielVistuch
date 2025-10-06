@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a computer engineer, former software developer at Riskey (now part of Vanta).
 Checkout my publication in TASE: <br>
-Robust Deep Reinforcement Learning Using Formal Verification | springerprofessional.de https://share.google/6r4XkDIz0o6QhlJn1
+Robust Deep Reinforcement Learning Using Formal Verification | [springerprofessional https://share.google/6r4XkDIz0o6QhlJn1](https://link.springer.com/chapter/10.1007/978-3-031-98208-8_11)
 <br>
 
 My favorite courses:  <br>
